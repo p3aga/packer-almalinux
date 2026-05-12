@@ -1,0 +1,1 @@
+Almalinux packer template
